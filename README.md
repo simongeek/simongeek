@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simongeek, PhD student.
+- 👋 Hi, I’m @simongeek, PhD student in medical image analysis using deep learning methods.
 - 👀 I’m interested in deep learning, computer vision, especially in medical imaging!
 - 🌱 I’m currently working on a new methods for medical image analysis.
 <!---
